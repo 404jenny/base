@@ -1,0 +1,5 @@
+{
+  "name": "BASE Agent OS",
+  "description": "An agent operating system for orchestrating, monitoring, and communicating with AI agents in real-time.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,25 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Cursor / Codex workspace artifacts
+.cursor/
+.codex/
+
+# Local runtime/state
+*.sqlite
+*.db
+*.db-journal
+*.local
+
+# Transient project data
+agent-transcripts/
+terminals/
